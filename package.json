@@ -1,0 +1,19 @@
+{
+  "name": "login-and-register-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+
+    "start":"nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
